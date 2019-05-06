@@ -66,3 +66,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+Just go to website, change tokens because they have expiry period and go.
+
+GET TOKEN FOR ARTIST:
+MYTOKEN = 
+https://developer.spotify.com/console/get-search-item/?q=tania%20bowra&type=artist&market=&limit=&offset=
+
+
+GET TOKEN FOR PLAYLIST: 
+MYTOKEN1 = https://developer.spotify.com/console/get-album-tracks/?id=&market=&limit=&offset=
+
+
